@@ -24,7 +24,8 @@ For better understanding of applying **projektor** to data source selection and 
 
 ## Data
 
-The selected datasets are included in the folder ['data'](data).
+The datasets should be placed in the folder ['data'](data).
+Please download the necessary datasets, e.g. CIFAR10.
 
 
 ## Acknoledgment
