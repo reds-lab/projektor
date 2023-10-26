@@ -1,4 +1,4 @@
-# [Projektor] Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources
+# [Projektor-NeurIPS 2023] Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources
 ![Python 3.8.10](https://img.shields.io/badge/python-3.8.10-DodgerBlue.svg?style=plastic)
 
 This repository is the official implementation of the "[Performance Scaling via Optimal Transport: Enabling Data Selection from Partially Revealed Sources](https://arxiv.org/abs/2307.02460)" (NeurIPS 2023). 
